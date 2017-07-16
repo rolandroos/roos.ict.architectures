@@ -4,7 +4,7 @@ Mobile : Roland Roos 0031 6 4025 1553
 
 E-mail : roos.ict.architectures@gmail.com
 
-<p>Consulting Partner at <a href="http://www.4synergy.nl/" title="4synergy">
+<p>Consulting Partner at <a href="http://www.4synergy.nl/" title="http://www.4synergy.nl">
 4synergy</a></p>
 
 <p align="center">

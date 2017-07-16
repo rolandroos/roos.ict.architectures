@@ -7,9 +7,12 @@ Application Architectures (dotnet, java or c++)
 Application Implementations and coding (dotnet, java or c++)
 
 Application processes
-    Agile (SCRUM)
-    Build pipelines (TFS, Jenkins, NuGet)
-    TDD
+
+<ul style="list-style-type:circle">
+  <li>Agile (SCRUM)</li>
+  <li>Build pipelines (TFS, Jenkins, NuGet)</li>
+  <li>Test Driven Development (TDD, MSTest)</li>
+</ul>
 
 Application Security 
     SDLC

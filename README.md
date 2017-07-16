@@ -29,7 +29,7 @@ Application Security:
   <li>Secure Development Life Cycle (SDLC)</li>
   <li>Build pipelines (TFS, Jenkins, NuGet)</li>
   <li>Test Driven Development (TDD, MSTest)</li>
-  <li>Token based security (oauth, Identity server) (TDD, MSTest)</li>
+  <li>Token based security (oauth, Identity server)</li>
 </ul>
    
     

@@ -7,7 +7,6 @@ Application Architectures (dotnet, java or c++)
 Application Implementations and coding (dotnet, java or c++)
 
 Application processes
-
 <ul style="list-style-type:circle">
   <li>Agile (SCRUM)</li>
   <li>Build pipelines (TFS, Jenkins, NuGet)</li>
@@ -15,8 +14,15 @@ Application processes
 </ul>
 
 Application Security 
-    SDLC
-    Token based security (oauth, Identity server)
+<ul style="list-style-type:circle">
+  <li>Secure Development Life Cycle (SDLC)</li>
+  <li>Build pipelines (TFS, Jenkins, NuGet)</li>
+  <li>Test Driven Development (TDD, MSTest)</li>
+  <li>Token based security (oauth, Identity server) (TDD, MSTest)</li>
+</ul>
+   
+   
+    
     
 Mobile : Roland Roos 0031 6 4025 1553
 

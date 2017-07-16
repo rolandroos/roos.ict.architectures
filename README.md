@@ -1,3 +1,4 @@
+
 Under this company name Roland Roos supplies architectural services as a Software Professional.
 
 If you need suport for application development on the following topics, please contact me:
@@ -6,12 +7,14 @@ Application Architectures (dotnet, java or c++)
 
 Application Implementations and coding (dotnet, java or c++)
 
+
 Application processes
 <ul style="list-style-type:circle">
   <li>Agile (SCRUM)</li>
   <li>Build pipelines (TFS, Jenkins, NuGet)</li>
   <li>Test Driven Development (TDD, MSTest)</li>
 </ul>
+
 
 Application Security 
 <ul style="list-style-type:circle">

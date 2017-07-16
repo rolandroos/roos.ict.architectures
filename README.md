@@ -1,4 +1,4 @@
-
+":
 Under this company name Roland Roos supplies architectural services as a Software Professional.
 
 Mobile : Roland Roos 0031 6 4025 1553
@@ -16,7 +16,7 @@ Application Architectures (dotnet, java or c++)
 Application Implementations and coding (dotnet, java or c++)
 
 
-Application processes
+Application processes:
 <ul style="list-style-type:circle">
   <li>Agile (SCRUM)</li>
   <li>Build pipelines (TFS, Jenkins, NuGet)</li>
@@ -24,7 +24,7 @@ Application processes
 </ul>
 
 
-Application Security 
+Application Security:
 <ul style="list-style-type:circle">
   <li>Secure Development Life Cycle (SDLC)</li>
   <li>Build pipelines (TFS, Jenkins, NuGet)</li>

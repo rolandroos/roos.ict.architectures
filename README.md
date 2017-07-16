@@ -1,4 +1,3 @@
-":
 Under this company name Roland Roos supplies architectural services as a Software Professional.
 
 Mobile : Roland Roos 0031 6 4025 1553
